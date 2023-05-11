@@ -1,0 +1,15 @@
+debug/MainWindow.o
+debug/circuit_board.o
+debug/dynamicmatrix.o
+debug/fraction.o
+debug/graph.o
+debug/graph_algorithm.o
+debug/graph_parser.o
+debug/graphwidget.o
+debug/helper.o
+debug/main.o
+debug/planargraphwidget.o
+debug/router.o
+debug/test.o
+debug/moc_MainWindow.o
+debug/moc_graphwidget.o

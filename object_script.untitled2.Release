@@ -1,0 +1,15 @@
+release/MainWindow.o
+release/circuit_board.o
+release/dynamicmatrix.o
+release/fraction.o
+release/graph.o
+release/graph_algorithm.o
+release/graph_parser.o
+release/graphwidget.o
+release/helper.o
+release/main.o
+release/planargraphwidget.o
+release/router.o
+release/test.o
+release/moc_MainWindow.o
+release/moc_graphwidget.o
